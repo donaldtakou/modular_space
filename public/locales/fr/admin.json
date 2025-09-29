@@ -1,0 +1,20 @@
+{
+
+  "search_products": "Rechercher des produits",
+  "search": "Rechercher",
+  "import_selected": "Importer la sélection",
+  "no_products_found": "Aucun produit trouvé",
+  "search_error": "Erreur lors de la recherche",
+  "import_success": "Produits importés avec succès",
+  "import_error": "Erreur lors de l'importation",
+  "product_details": "Détails du produit",
+  "price_range": "Fourchette de prix",
+  "minimum_order": "Quantité minimum de commande",
+  "specifications": "Spécifications",
+  "select_product": "Sélectionner ce produit",
+  "unselect_product": "Désélectionner ce produit",
+  "loading": "Chargement...",
+  "confirm_import": "Confirmer l'importation",
+  "cancel": "Annuler",
+  "selected_count": "{{count}} produits sélectionnés"
+}

@@ -1,0 +1,20 @@
+{
+  "welcome": "Bienvenue sur ModularSpace",
+  "discover": "Découvrez nos solutions d'habitat modulaire innovantes",
+  "products": "Produits",
+  "about": "À propos",
+  "services": "Services",
+  "contact": "Contact",
+  "billing": "Facturation",
+  "admin": "Admin",
+  "folding_house": "Maison pliable",
+  "capsule_house": "Maison capsule",
+  "in_stock": "En stock",
+  "out_of_stock": "Rupture de stock",
+  "view_details": "Voir les détails",
+  "dimensions": "Dimensions",
+  "features": "Caractéristiques",
+  "specifications": "Spécifications",
+  "price": "Prix",
+  "availability": "Disponibilité"
+}

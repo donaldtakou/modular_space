@@ -1,0 +1,20 @@
+{
+
+  "search_products": "Search products",
+  "search": "Search",
+  "import_selected": "Import selected",
+  "no_products_found": "No products found",
+  "search_error": "Search error",
+  "import_success": "Products imported successfully",
+  "import_error": "Error importing products",
+  "product_details": "Product details",
+  "price_range": "Price range",
+  "minimum_order": "Minimum order quantity",
+  "specifications": "Specifications",
+  "select_product": "Select this product",
+  "unselect_product": "Unselect this product",
+  "loading": "Loading...",
+  "confirm_import": "Confirm import",
+  "cancel": "Cancel",
+  "selected_count": "{{count}} products selected"
+}

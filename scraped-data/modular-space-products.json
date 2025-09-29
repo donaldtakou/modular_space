@@ -1,0 +1,424 @@
+[
+  {
+    "id": 1,
+    "name": "Modular Space Capsule Standard Luxe",
+    "description": " Fourniture d'usine haut de gamme robuste Etong moderne Capsule House objets de collection avec cuisine Outdoor Luxury Capsule House",
+    "price": "$3 200",
+    "image": "https://s.alicdn.com/@sc04/kf/H2c47a8d0f9764f68952c171bbb8e31f4q.jpg_300x300.jpg",
+    "category": "Capsule",
+    "features": [
+      "Luxe",
+      "Cuisine équipée",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Modular Space Capsule Standard Moderne",
+    "description": "Nouveau type de maison mobile Camp résidentiel modulaire préfabriqué moderne Luxueuse maison capsule écologique mobile",
+    "price": "$15 000",
+    "image": "https://s.alicdn.com/@sc04/kf/H89d388d5df634786bb0fc7e176c74267e.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "Écologique",
+      "Mobile",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Modular Space Villa 20ft Pro",
+    "description": "Maison personnalisée à distance Maison en conteneur extensible de 20/30FT avec salle de bain Maison de deux/trois chambres pour villa",
+    "price": "$2 600",
+    "image": "https://s.alicdn.com/@sc04/kf/H0561c4cc99df4629b90f3bd6257742174.jpg_300x300.jpg",
+    "category": "Modulaire",
+    "features": [
+      "20ft",
+      "Salle de bain",
+      "Chambres"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Modular Space Villa Standard Pro",
+    "description": "Villa résidentielle au design minimaliste Maison en conteneur Solaires à toit plat et maisons en verre Produit",
+    "price": "$7 000",
+    "image": "https://s.alicdn.com/@sc04/kf/Hbff2f79c6c1946558a0f02fe6898cf87t.png_300x300.png",
+    "category": "Container",
+    "features": [
+      "Écologique",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Modular Space Container 40ft Luxe",
+    "description": "Offre Spéciale à distance Maison préfabriquée de luxe Maison de 40 pieds Maison conteneur de couchage Maison pour hôtel pour l'extérieur",
+    "price": "$2 600",
+    "image": "https://s.alicdn.com/@sc04/kf/Hbd9e0d0ce33a420bb57281ec3d9d439aX.jpg_300x300.jpg",
+    "category": "Container",
+    "features": [
+      "40ft",
+      "Luxe",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Modular Space Container 20ft Luxe",
+    "description": "Maison en conteneur de luxe 20 & 40 pieds modulaire détachable préfabriqué en acier concept de petite maison en conteneur détachable",
+    "price": "$1 298",
+    "image": "https://s.alicdn.com/@sc04/kf/H8c24560ceb4840f5a7f55e51eb10a9a9f.jpg_300x300.jpg",
+    "category": "Modulaire",
+    "features": [
+      "20ft",
+      "40ft",
+      "Compact",
+      "Luxe"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Modular Space Capsule Standard Moderne",
+    "description": "Boîtier de prix de maison préfabriquée Chine capsule de navire moderne",
+    "price": "$740",
+    "image": "https://s.alicdn.com/@sc04/kf/H84502ed906264a0c8850764e3a2d32baW.jpg_300x300.jpg",
+    "category": "Capsule",
+    "features": [
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Modular Space Capsule Standard Moderne",
+    "description": "Capsule de camping moderne design luxueux et à la mode Maisons préfabriquées Capsule spatiale Capsule avec système intelligent",
+    "price": "$5 000",
+    "image": "https://s.alicdn.com/@sc04/kf/H1338b7bbe77a433eb7db01faae14100eb.jpg_300x300.jpg",
+    "category": "Capsule",
+    "features": [
+      "Intelligent",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Modular Space Capsule Standard Luxe",
+    "description": "Maison modulaire capsule Apple Pod Space de luxe à distance Maison mobile Apple Cabin 2 couches pour café",
+    "price": "$4 500",
+    "image": "https://s.alicdn.com/@sc04/kf/He9d29ed311ee4ee0980180e483e0a48bk.png_300x300.png",
+    "category": "Folding",
+    "features": [
+      "Luxe",
+      "Mobile",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Modular Space Capsule Standard Pro",
+    "description": "Gypsophila Space Capsule Mobile Homestay Steel Factory Source Mobile Hotel Capsule House",
+    "price": "$10 000",
+    "image": "https://s.alicdn.com/@sc04/kf/Hef10709abe594a5984192b6cd3d14b3aG.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "Mobile",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Modular Space Capsule Standard Luxe",
+    "description": "Remorque de luxe pour maison capsule spatiale Maison mobile modulaire préfabriquée Maison capsule avec roues Espace commercial sur roues",
+    "price": "$538",
+    "image": "https://s.alicdn.com/@sc04/kf/He39bd138a1af4590b5239c9a86337e2bw.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "Luxe",
+      "Mobile",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Modular Space Capsule 40ft Luxe",
+    "description": "CGCH H5 Villa mobile préfabriquée de luxe de 40 pieds Capsule spatiale Capsule de sommeil Maison de luxe cabine préfabriquée de la taille d'un appartement",
+    "price": "$19 200",
+    "image": "https://s.alicdn.com/@sc04/kf/He8a59d0cbae44c30859d86e843c205ccU.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "40ft",
+      "Luxe",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Modular Space Capsule 40ft Pro",
+    "description": "Capsule House avec cuisine 40 pieds pour une efficacité compacte",
+    "price": "$10 800",
+    "image": "https://s.alicdn.com/@sc04/kf/H1e7ec2a93afa47b68355704322888340e.jpg_300x300.jpg",
+    "category": "Capsule",
+    "features": [
+      "40ft",
+      "Cuisine équipée",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Modular Space Capsule Standard Luxe",
+    "description": "Nouveau modèle Maison capsule spatiale Maison mobile de luxe",
+    "price": "$740",
+    "image": "https://s.alicdn.com/@sc04/kf/H129aa3103ffb443c87e10f32addf60260.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "Luxe",
+      "Mobile",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Modular Space Capsule Standard Luxe",
+    "description": "Tech-Savvy Maison en conteneur résidentielle intégrée Capsule en acier préfabriquée de style luxe sauvage pour villa ou appartement chez l'habitant",
+    "price": "$500",
+    "image": "https://s.alicdn.com/@sc04/kf/H9032e93735bd4edb8fad64ef7cbd7744S.png_300x300.png",
+    "category": "Capsule",
+    "features": [
+      "Luxe",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Modular Space Capsule Compact Luxe",
+    "description": "Villa mobile de luxe Capsule spatiale en acier préfabriquée Sleeping Pod Maison contre la Corée du Sud Petite maison intelligente",
+    "price": "$22 500",
+    "image": "https://s.alicdn.com/@sc04/kf/H01e639abe84842f981502afe5d1a0f0eD.png_300x300.png",
+    "category": "Folding",
+    "features": [
+      "Compact",
+      "Luxe",
+      "Intelligent",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Modular Space Capsule 40ft Pro",
+    "description": "Espace Maison Cabine Conteneur Mobile 40 pieds Capsule Haus Hôtel Capsule Maison Collectibles Conteneur de Couchage Maison pour Hôtel",
+    "price": "$37 700",
+    "image": "https://s.alicdn.com/@sc04/kf/H94213e6ef593448ab694043087a79f57V.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "40ft",
+      "Mobile",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Modular Space Capsule Compact Moderne",
+    "description": "Capsule spatiale Maison préfabriquée Prix d'usine Design moderne Personnalisable Eco Friendly Haute qualité Space Capsule House tiny house",
+    "price": "$15 000",
+    "image": "https://s.alicdn.com/@sc04/kf/H4b2cd637013e4408b0f4ab9a87e3ba46S.png_300x300.png",
+    "category": "Capsule",
+    "features": [
+      "Compact",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Modular Space Container 20ft Pro",
+    "description": "Maison de conteneur extensible indépendante de 40 pieds et 20 pieds Panneau sandwich en acier pour cour",
+    "price": "$850",
+    "image": "https://s.alicdn.com/@sc04/kf/H336bc49b40ed4bf0aba9d2a451c8cfa63.png_300x300.png",
+    "category": "Modulaire",
+    "features": [
+      "20ft",
+      "40ft",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Modular Space Villa Standard Luxe",
+    "description": "Australie Résistant Aux Tremblements De Terre Casa Conteneur De Luxe Empilable Villa Bedsitter Bâtiment Conteneur Maison",
+    "price": "$3 722",
+    "image": "https://s.alicdn.com/@sc04/kf/Hf061823b9c804375830d9f2f5ad52185h.jpg_300x300.jpg",
+    "category": "Container",
+    "features": [
+      "Luxe",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Modular Space Capsule Standard Moderne",
+    "description": "Maison minuscule intégrée moderne Capsule complète préfabriquée pour maison spatiale Maison intelligente Capsule d'activités scéniques résidentielles à prix d'usine",
+    "price": "$22 350",
+    "image": "https://s.alicdn.com/@sc04/kf/H43dc4cb7540d430d869a8208d72676b00.jpeg_300x300.jpeg",
+    "category": "Capsule",
+    "features": [
+      "Intelligent",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Modular Space Capsule Compact Luxe",
+    "description": "Wellucky Space Capsule Maisons mobiles Maison préfabriquée mobile Conteneur Petites maisons à capsules spatiales de luxe préfabriquées",
+    "price": "$20 000",
+    "image": "https://s.alicdn.com/@sc04/kf/H3131a8dff3bc412e9bda17098d99ff50U.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "Compact",
+      "Luxe",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Modular Space Container 20ft Pro",
+    "description": "Maison en conteneur préfabriquée de conception simple de 20 à 40 pieds Dortoir du personnel à plat Maison  l'assemblage",
+    "price": "$820",
+    "image": "https://s.alicdn.com/@sc04/kf/H0be4d3b5741a4a8a885c6ddd92c1910f1.png_300x300.png",
+    "category": "Container",
+    "features": [
+      "20ft",
+      "40ft",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Modular Space Capsule 20ft Luxe",
+    "description": "Solution de maison mobile de luxe de cabine d'Apple de l'acier Offre Spéciale 2025 pour des hôtels villas appartements maisons préfabriquées de capsule",
+    "price": "$10 500",
+    "image": "https://s.alicdn.com/@sc04/kf/H6855fc6946c34a1a84ca63e8fac29472r.png_300x300.png",
+    "category": "Folding",
+    "features": [
+      "20ft",
+      "Luxe",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Modular Space Capsule Standard Pro",
+    "description": "M Conteneur modulaire préfabriqué personnalisé Maison Apple Cabine Bureau Pod Minuscule Capsule Pliante Salon Chambre Appartement Atelier",
+    "price": "$5 200",
+    "image": "https://s.alicdn.com/@sc04/kf/H929f578f9bb8407eadb1d832ce7efdf8R.png_300x300.png",
+    "category": "Capsule",
+    "features": [
+      "Chambres",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Modular Space Capsule Compact Luxe",
+    "description": "Capsule spatiale Bateau-maison flottant Nouvelle maison mobile Maison flottante préfabriquée en acier pour l'extérieur Petite maison Bateau de luxe",
+    "price": "$1 300",
+    "image": "https://s.alicdn.com/@sc04/kf/H6a5b9a1584704577a4a0f3ace1148e5cb.jpg_300x300.jpg",
+    "category": "Folding",
+    "features": [
+      "Compact",
+      "Luxe",
+      "Mobile"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Modular Space Capsule Standard Luxe",
+    "description": "Maison capsule spatiale préfabriquée de luxe moderne Maison en conteneur pour 2 chambres à coucher",
+    "price": "$6 999",
+    "image": "https://s.alicdn.com/@sc04/kf/H2f23bde401b24db0af8996f2fb730cc4m.jpg_300x300.jpg",
+    "category": "Capsule",
+    "features": [
+      "Luxe",
+      "Chambres",
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Modular Space Capsule Standard Luxe",
+    "description": "Maison capsule écologique d'extérieur Capsule spatiale de luxe Capsule d'hôtel Chambre capsule cabine Apple préfabriquée Maison conteneur",
+    "price": "$15 000",
+    "image": "https://s.alicdn.com/@sc04/kf/H46bc8e5cbd4c4993b40390dc3b59e914b.png_300x300.png",
+    "category": "Capsule",
+    "features": [
+      "Luxe",
+      "Écologique",
+      "Chambres"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Modular Space Capsule Standard Pro",
+    "description": "Maisons préfabriquées lits capsules cabines d'hôtel maisons modulaires préfabriquées",
+    "price": "$7 200",
+    "image": "https://s.alicdn.com/@sc04/kf/H7a89e82b998b413d8b92865450487d63Z.jpg_300x300.jpg",
+    "category": "Capsule",
+    "features": [
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Modular Space Capsule Standard Pro",
+    "description": "Espagne Hôtel Space Capsule House Bâtiments en acier 5 étoiles Space Capsule Container Houses Commercial House Space Capsule",
+    "price": "$1 300",
+    "image": "https://s.alicdn.com/@sc04/kf/Hc00c5ca35c01426d95d349818e8d52b9r.jpg_300x300.jpg",
+    "category": "Capsule",
+    "features": [
+      "Prêt à vivre",
+      "Installation rapide",
+      "Garantie qualité"
+    ]
+  }
+]

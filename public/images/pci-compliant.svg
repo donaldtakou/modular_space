@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="6" y="8" width="36" height="32" rx="2" fill="#3B82F6"/>
+  <path d="M14 20H34V16H14V20ZM14 26H34V22H14V26ZM20 32H28V28H20V32Z" fill="white"/>
+  <text x="24" y="42" text-anchor="middle" fill="#1D4ED8" font-size="8" font-family="Arial, sans-serif">PCI DSS</text>
+</svg>
